@@ -1,5 +1,6 @@
 #include "joint.h"
 
+//GROS ZBOUB
 quint32 Joint::idJointStatic = 0;
 /**
   * CONSTRUCTEURS
