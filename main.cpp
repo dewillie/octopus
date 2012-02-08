@@ -13,10 +13,6 @@ int main(int argc, char *argv[])
     //Forme *forme = new Forme();
     //forme->resize(100, 100);
     //forme->show();
-<<<<<<< .mine
-	//PETIT ZBOUB
-=======
->>>>>>> .r12
 
     return a.exec();
 }
