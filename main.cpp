@@ -13,7 +13,11 @@ int main(int argc, char *argv[])
     //Forme *forme = new Forme();
     //forme->resize(100, 100);
     //forme->show();
+<<<<<<< HEAD
 	//JE PREFERE LES GROS ZBOUB 5
+=======
+	//JE PREFERE LES GROS ZBOUB 4
+>>>>>>> zboub4
 	
     return a.exec();
 }
